@@ -1,6 +1,8 @@
 # app
 
-A new Flutter project.
+Sample loginpage and Signup page.
+after that the homepage contains a button to upload files in tab1 and list of uploaded files in tab2.
+
 
 ## Getting Started
 
